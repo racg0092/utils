@@ -1,3 +1,4 @@
+// mod.ts
 /**
  * @module
  *
@@ -8,7 +9,7 @@
  * 
  *
  * const e = err(new Error("Oops something went worng")) 
- * const v = val("Yay!! Bon Bojage")
+ * const v = val("Yay Bon Bojage")
  * ```
  * */
 
